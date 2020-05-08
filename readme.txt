@@ -1,2 +1,2 @@
-随笔
-一些学习中遇到的琐碎问题
+essay
+Some trivial problems encountered in learning
